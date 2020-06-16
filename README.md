@@ -16,3 +16,11 @@ The following examples are derived and modified from the [model zoo](https://git
 10. [β-VAE](notebook/08_Beta-VAE.ipynb)
 11. [Using pre-trained model](notebook/09_Pre-trained_model.ipynb)
 12. [Transfer learning](notebook/10_Transfer_learning.ipynb)
+
+## Deep learning models
+
+* [ObjectDetector.jl](https://github.com/r3tex/ObjectDetector.jl)
+* [Transformers.jl](https://github.com/chengchingwen/Transformers.jl)
+* [GeometricFlux.jl](https://github.com/yuehhua/GeometricFlux.jl)
+* [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl)
+* [Flux3D.jl](https://github.com/nirmal-suthar/Flux3D.jl)
